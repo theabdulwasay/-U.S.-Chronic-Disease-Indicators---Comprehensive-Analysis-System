@@ -1,3 +1,12 @@
+<img width="5338" height="4037" alt="09_comprehensive_dashboard" src="https://github.com/user-attachments/assets/28f4ffdc-32e3-4dac-98f8-c771b0d01e61" />
+<img width="4139" height="2333" alt="08_prevalence_distribution" src="https://github.com/user-attachments/assets/cdb0ca48-aff7-4547-82a2-2d29c2aaaa9e" />
+<img width="4140" height="2333" alt="07_growth_rates" src="https://github.com/user-attachments/assets/349169a1-420c-486e-a13d-00950141a9d7" />
+<img width="5336" height="4173" alt="06_top_states_per_disease" src="https://github.com/user-attachments/assets/aae8111d-80d1-42c1-974b-ed178cafd27c" />
+<img width="4428" height="2936" alt="05_heatmap_state_disease" src="https://github.com/user-attachments/assets/fc26c2be-de2b-4ce8-8fe3-abe996afc446" />
+<img width="4140" height="2333" alt="04_age_group_analysis" src="https://github.com/user-attachments/assets/639f9b34-699b-43e1-ba40-d71d6d9c60ed" />
+<img width="4739" height="2936" alt="03_state_comparison" src="https://github.com/user-attachments/assets/b2e0af84-5488-4828-9166-7e1528b3b70c" />
+<img width="4129" height="2333" alt="02_disease_trends_over_time" src="https://github.com/user-attachments/assets/d7500de5-e612-4cc7-b4e4-7e5f026a5bb2" />
+<img width="4141" height="2333" alt="01_disease_prevalence_comparison" src="https://github.com/user-attachments/assets/dc6d791c-70db-40ae-82ea-5681195204fc" />
 # 🏥 U.S. Chronic Disease Indicators - Comprehensive Analysis System
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
@@ -433,11 +442,11 @@ The CDC Chronic Disease Indicators dataset is in the **public domain** and free 
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- Student ID: [Your Student ID]
+**[Abdul Wasay]**
+- Student ID: [FA22-BCS-127]
 - Course: Exploratory Data Analysis & Visualization (EDAV)
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: abdulwasaymalik757@gmail.com
+- GitHub: [theabdulwasay](https://github.com/theabdulwasay)
 
 ---
 
@@ -457,11 +466,11 @@ If you use this analysis in your work, please cite:
 
 ```bibtex
 @misc{chronic2026analysis,
-  author = {[Your Name]},
+  author = {[Abdul Wasay},
   title = {U.S. Chronic Disease Indicators: Comprehensive Analysis},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/chronic-disease-indicators}
+  url = {https://github.com/theabdulwasay/chronic-disease-indicators}
 }
 ```
 
